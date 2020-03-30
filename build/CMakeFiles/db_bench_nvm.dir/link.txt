@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti -g   CMakeFiles/db_bench_nvm.dir/util/histogram.cc.o CMakeFiles/db_bench_nvm.dir/util/testutil.cc.o CMakeFiles/db_bench_nvm.dir/benchmarks/db_bench_nvm.cc.o  -o db_bench_nvm libleveldbzzt.a lib/libgmockd.a lib/libgtestd.a -lpthread 

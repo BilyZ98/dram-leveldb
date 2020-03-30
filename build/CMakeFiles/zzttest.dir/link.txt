@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti -g   CMakeFiles/zzttest.dir/util/testutil.cc.o CMakeFiles/zzttest.dir/test/zzttest.cc.o  -o zzttest libleveldbzzt.a lib/libgmockd.a lib/libgtestd.a -lpthread 
